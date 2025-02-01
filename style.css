@@ -196,6 +196,9 @@ h1{
     gap: 0 10px;
     margin-bottom: 3rem;
     margin: auto;
+    display:flex;
+    justify:center;
+    items:center;
     /* color: #F9F7F7; */
 }
 .form-container.active{
