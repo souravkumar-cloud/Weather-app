@@ -191,12 +191,13 @@ h1{
     width: 90%;
     max-width: 550px;
     margin: 0 auto;
+    display:flex;
     justify-content: center;
     align-items: center;
     gap: 0 10px;
     margin-bottom: 3rem;
     margin: auto;
-    display:flex;
+    
     justify:center;
     items:center;
     /* color: #F9F7F7; */
